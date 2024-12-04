@@ -1,0 +1,23 @@
+
+.container{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 49px;
+    font-size: 27px;
+    flex-direction: column;
+    gap: 25px;
+    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+img{
+    border-radius: 20px;
+    
+}

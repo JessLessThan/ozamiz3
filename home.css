@@ -1,0 +1,67 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 27px;
+    flex-direction: column;
+    gap: 25px;
+    
+}
+
+.VisionMissioncoreValues{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: row;
+    gap:80px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.VisionMissioncoreValues p{
+    margin-top: 13px;
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.cityPictures{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: column;
+    gap:80px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 90px;
+}
+
+.row{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: row;
+    gap: 80px;
+}
+img {
+    border-radius: 10px;
+    width: 400px; /* Default width */
+    height: 280px; /* Default height */
+}
+.missions{
+    border: 3px solid #0077B6;
+    border-radius: 10px;
+    padding: 20px;
+}
+.picturess{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 27px;
+    flex-direction: row;
+    gap: 25px;
+}

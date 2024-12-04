@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 27px;
+    flex-direction: column;
+    gap: 25px;
+}
+.top{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 27px;
+    flex-direction: column;
+    margin-bottom: 60px;
+    
+}
+.pictures{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 27px;
+    gap: 20px;
+    flex-direction: row;
+}
+img{
+    border-radius: 10px;
+}
+p{
+    width: 410px;
+    font-size: 20px;
+    text-align: start;
+}
+
+.b1 {
+    width: 400px; /* Set default width */
+    height: 250px; /* Height adjusts to maintain aspect ratio */
+}
